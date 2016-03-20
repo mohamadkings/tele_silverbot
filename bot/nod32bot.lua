@@ -249,7 +249,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/mohamadkings/tele-silverbot.git
 
 channel : @Nod32team
 sodu : @behrooZyaghi
@@ -317,11 +317,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: 
 
 ]],
     help_text = [[
-NOD32 Commands list :
+Telesilver Commands list :
  
 1-banhammer list ^
  
