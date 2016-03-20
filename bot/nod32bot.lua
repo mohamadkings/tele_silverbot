@@ -249,10 +249,9 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
-
-channel : @Nod32team
-sodu : @behrooZyaghi
+https://github.com/tele-silverbot
+channel : 
+sodu : @mr_error_latina
 ]],
     help_text_realm = [[
 Realm Commands:
