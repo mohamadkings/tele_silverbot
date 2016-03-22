@@ -251,8 +251,8 @@ function create_config( )
     about_text = [[
 https://github.com/mohamadkings/tele-silverbot.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel 
+sodu : 
 ]],
     help_text_realm = [[
 Realm Commands:
